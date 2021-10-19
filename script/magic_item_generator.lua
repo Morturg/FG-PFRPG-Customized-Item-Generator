@@ -59,7 +59,7 @@ aSpecialMaterials = {
 		bAlwaysMasterwork   = false,
 		bFragile             = false,
 	},
-	["Basalt, Magic Bridge"] = {
+	["Magic Bridge Basalt"] = {
 		sStringName         = "magic bridge basalt",
 		bLightArmor         = false,
 		bMediumArmor        = false,
